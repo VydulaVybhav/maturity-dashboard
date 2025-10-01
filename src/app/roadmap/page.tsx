@@ -164,10 +164,7 @@ export default function RoadmapPage() {
         </div>
       </div>
 
-      {/* Scroll hint */}
-      <div className="flex-shrink-0 text-center pt-4 text-xs text-slate-600">
-        ↑ Scroll vertically or drag the scrollbar to move timeline →
-      </div>
+
     </div>
   );
 }

@@ -16,7 +16,7 @@ export default function NavBar() {
       <div className="max-w-7xl mx-auto px-8 py-5">
         <div className="flex items-center justify-between">
           <Link href="/" className="text-lg font-light text-slate-100 hover:text-emerald-400 transition-colors">
-            EDW Platform Engineering Hub
+            EDW
           </Link>
 
           <div className="flex items-center gap-2">
